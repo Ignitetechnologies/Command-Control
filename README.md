@@ -3,7 +3,7 @@
 This cheasheet is aimed at the Red Teamers to help them find diffent tools and methods to create a Commmand and Control Server and exploit remote session. Clicking on the Name of the tool will direct you to a detailed guide to use that tool. Please share this with your connections. Direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 
